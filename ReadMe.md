@@ -34,4 +34,4 @@ The generated pdf is then uploaded to S3 and the corresponding S3 url is shared 
     `aws lambda create-event-source-mapping --function-name <lambda function name> --event-source-arn <arn of the SQS queue>`
 
 # Video Reference
-For detailed video explanation of this project please visit my YouTube channel [CodeWithAnish](https://youtu.be/F5bPfC2xbxQ)
+For detailed video explanation of this project please visit my YouTube channel [CodeWithAnish](https://youtu.be/9fJWVlO2ZSw)
